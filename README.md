@@ -37,7 +37,7 @@ I am passionate about technology, innovation, and creating solutions that make a
 
 - **GitHub**: [Harathi's GitHub](https://github.com/Harathich)  
 - **LinkedIn**: [Connect with me](https://www.linkedin.com)  
-- **Email**: harathi.chavala@example.com  
+- **Email**: chavalaharathi05@gmail.com 
 
 ---
 
