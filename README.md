@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harathi Chavala  
 
 **Welcome to my GitHub!**  
-I'm currently a **3rd-year Integrated M.Tech student in Software Engineering at VIT AP University**.  
+I'm currently a **4th-year Integrated M.Tech student in Software Engineering at VIT AP University**.  
 I am passionate about technology, innovation, and creating solutions that make a positive impact.  
 
 ---
@@ -18,16 +18,17 @@ I am passionate about technology, innovation, and creating solutions that make a
   - Exploring **Spring Boot** for web development.  
 
 - 👩‍💻 **Technical Skills**:  
-  - Programming Languages: Python, HTML, CSS  
+  - Programming Languages: Java, Python, HTML, CSS  
   - Tools: Git, VS Code  
   - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
 
 - 💡 **Interests**:  
   - Data Science  
   - AI and Machine Learning  
-  - Frontend Development  
+  - Web Development  
 
-- 🌍 **Community Involvement**:  
+- 🌍 **Community Involvement**:
+  - **Best Use of Data** at NASA Space Apps Challenge @VITAP 2025
   - Volunteered at NASA Space Apps Challenge Hackathon.  
   - Member of the Innovators Quest Club, VIT, where I contributed to marketing and technical event management.  
 
