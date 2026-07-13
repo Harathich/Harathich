@@ -1,50 +1,79 @@
-# 👋 Hi, I'm Harathi Chavala  
+<h1 align="center">Hi there, I'm Harathi 👋</h1>
 
-**Welcome to my GitHub!**  
-I'm currently a **4th-year Integrated M.Tech student in Software Engineering at VIT AP University**.  
-I am passionate about technology, innovation, and creating solutions that make a positive impact.  
+<p align="center">
+Software Engineering Student • Backend Developer • AI Enthusiast
+</p>
 
----
+<p align="center">
+Building scalable backend systems, exploring AI applications, and turning ideas into real products.
+</p>
+## 🤝 Connect with Me
 
-### 🌟 **About Me**  
+<p align="left">
+<a href="(https://www.linkedin.com/in/harathichavala/)">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-- 🔭 **Current Projects**:  
-  - Developing a **Customer Segmentation Model** for e-commerce businesses.  
-  - Building a **Recipe Finder Website** to help users explore personalized recipes.  
-  - Improving my skills in **Machine Learning** and **Python programming**.
+<a href="YOUR_GMAIL_LINK">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-- 🌱 **Currently Learning**:  
-  - **Machine Learning Algorithms**  
-  - Exploring **Spring Boot** for web development.  
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
-- 👩‍💻 **Technical Skills**:  
-  - Programming Languages: Java, Python, HTML, CSS  
-  - Tools: Git, VS Code  
-  - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn  
+## 🌸 Glad you're here!
 
-- 💡 **Interests**:  
-  - Data Science  
-  - AI and Machine Learning  
-  - Web Development  
+I enjoy building backend systems with Java and Spring Boot, experimenting with AI applications, and solving real world problems through software.
 
-- 🌍 **Community Involvement**:
-  - **Best Use of Data** at NASA Space Apps Challenge @VITAP 2025
-  - Volunteered at NASA Space Apps Challenge Hackathon.  
-  - Member of the Innovators Quest Club, VIT, where I contributed to marketing and technical event management.  
+Currently, I'm focused on backend engineering, distributed systems, and machine learning while preparing for software engineering internships.
 
----
+## 💻 Tech Stack
 
-### 📫 **Contact Me**  
+<p>
 
-- **GitHub**: [Harathi's GitHub](https://github.com/Harathich)  
-- **LinkedIn**: [Connect with me](https://www.linkedin.com)  
-- **Email**: chavalaharathi05@gmail.com 
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,tailwind,mysql,mongodb,docker,git,github,postman,vscode,idea"/>
 
----
+</p>
 
+## 📊 Statistics
 
+<p align="center">
 
-<!---
-Harathich/Harathich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harathich&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harathich&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harathich&theme=tokyo-night"/>
+
+</p>
+
+## 🚀 Currently Working On
+
+- ScamShield AI — Multi-agent scam detection platform using FastAPI, LangGraph and Gemini
+- HydraPet — Desktop hydration companion built with Python and PySide6
+- Kafka Order System — Event-driven microservices using Spring Boot and Apache Kafka
+- SkillTree — Full stack learning platform with Java backend and React frontend
+
+- ## ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ScamShield AI | AI powered scam detection platform |
+| SkillTree | Learning platform with coding challenges |
+| HydraPet | Desktop pet that promotes healthy hydration |
+| Customer Segmentation | Machine Learning project for e-commerce |
+
+## 📚 Currently Learning
+
+- Spring Boot Microservices
+- Apache Kafka
+- System Design
+- Cloud Technologies
+
+- <img src="https://komarev.com/ghpvc/?username=Harathich&label=Profile%20Views&color=blue&style=flat"/>
