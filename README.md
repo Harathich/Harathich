@@ -7,6 +7,7 @@ Software Engineering Student • Backend Developer • AI Enthusiast
 <p align="left">
 Building scalable backend systems, exploring AI applications, and turning ideas into real products.
 </p>
+
 ## 🤝 Connect with Me
 
 <p align="left">
