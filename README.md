@@ -1,21 +1,21 @@
-<h1 align="center">Hi there, I'm Harathi 👋</h1>
+<h1 align="left">Hi there, I'm Harathi 👋</h1>
 
-<p align="center">
+<p align="left">
 Software Engineering Student • Backend Developer • AI Enthusiast
 </p>
 
-<p align="center">
+<p align="left">
 Building scalable backend systems, exploring AI applications, and turning ideas into real products.
 </p>
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/harathichavala/)">
+<a href="https://www.linkedin.com/in/harathichavala/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="YOUR_GMAIL_LINK">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:harathichavala99@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
@@ -29,12 +29,19 @@ I enjoy building backend systems with Java and Spring Boot, experimenting with A
 
 Currently, I'm focused on backend engineering, distributed systems, and machine learning while preparing for software engineering internships.
 
+
 ## 💻 Tech Stack
 
 <p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,nextjs,tailwind,mysql,mongodb,docker,git,github,postman,vscode,idea"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,mysql,mongodb,docker,git"/>
+</p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode,idea"/>
 </p>
 
 ## 📊 Statistics
